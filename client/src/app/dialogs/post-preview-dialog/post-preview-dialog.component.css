@@ -1,0 +1,10 @@
+mat-card-header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+p {
+    height: 40%;
+  width: 100%;
+}

@@ -1,0 +1,34 @@
+mat-card {
+    margin-top: 20px;
+    padding: 30px;
+    margin-inline: auto;
+    max-width: 400px;
+    min-width: 200px;
+}
+
+mat-card-header {
+    margin-bottom: 10px;
+}
+
+mat-card-footer {
+    padding-inline: 32px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+.regular-text {
+    display: inline;
+}
+
+.link-button {
+    display: inline;
+    margin-left: 3px;
+}
+
+button {
+    border-radius: 20px;
+}
+
+

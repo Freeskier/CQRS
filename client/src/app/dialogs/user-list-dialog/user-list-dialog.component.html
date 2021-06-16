@@ -1,0 +1,29 @@
+<mat-card-header *ngIf="data.followType == 0" class="main-header">
+  Followed by: {{ data.users.length }} users
+</mat-card-header>
+<mat-card-header *ngIf="data.followType == 1" class="main-header">
+  Follows: {{ data.users.length }} users
+</mat-card-header>
+<mat-card-content>
+  <div *ngFor="let user of data.users">
+    <mat-card-header
+      style="margin-block: 10px"
+      id="followItem"
+      (click)="navigateToProfile(user.id)"
+    >
+      <img
+        mat-card-avatar
+        class="example-option-img"
+        aria-hidden
+        [src]="
+          user.mainPhotoUrl || '../../assets/temp-images/default_avatar.jpg'
+        "
+        height="25"
+      />
+      <mat-card-title style="text-transform: capitalize">
+        {{ user.firstName }} {{ user.lastName }}
+      </mat-card-title>
+      <mat-card-subtitle> @{{ user.userName }} </mat-card-subtitle>
+    </mat-card-header>
+  </div>
+</mat-card-content>

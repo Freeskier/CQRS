@@ -1,0 +1,60 @@
+<mat-toolbar color="primary" style="padding-block: 35px;">
+  <button
+    mat-icon-button
+    (click)="navigateHome()"
+    class="example-icon favorite-icon"
+    aria-label="Example icon-button with menu icon"
+  >
+    <mat-icon>home</mat-icon>
+  </button>
+  <span>Dumplingram</span>
+  
+  <mat-form-field *ngIf="isLoggedIn()" class="example-full-width" appearance="fill" color="accent">
+    <mat-label>Search</mat-label>
+    <input
+      matInput
+      aria-label="Search"
+      placeholder="Search..."
+      [matAutocomplete]="auto"
+      [formControl]="searchInput"
+    />
+    <mat-icon matSuffix>search</mat-icon>
+    <mat-autocomplete #auto="matAutocomplete">
+      <mat-option *ngFor="let user of foundUsers" [value]="user.userName" (click)="searchItemClick(user.id)">
+        <img
+          class="example-option-img"
+          aria-hidden
+          [src]="user.mainPhotoUrl || '../../assets/temp-images/default_avatar.jpg'"
+          height="25"
+        />
+        <span style="text-transform: capitalize"
+          >{{ user.firstName }} {{ user.lastName }}</span
+        >
+        <small style="position: absolute; right: 10px ;">
+          @{{ user.userName }}</small
+        >
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+  
+  <span class="example-spacer"></span>
+  <button
+    *ngIf="isLoggedIn()"
+    mat-icon-button
+    class="profile-button"
+    aria-label="Example icon-button with share icon"
+    (click)="myProfileClick()"
+  >
+    <mat-icon>person</mat-icon>
+    {{loggedUser.firstName}} {{loggedUser.lastName}}
+  </button>
+  <button
+    *ngIf="isLoggedIn()"
+    mat-icon-button
+    class="example-icon"
+    aria-label="Example icon-button with share icon"
+    (click)="logout()"
+  >
+    <mat-icon>logout</mat-icon>
+  </button>
+</mat-toolbar>

@@ -1,0 +1,38 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 20vw;
+    top: 7.5px;
+    left: 200px;
+    font-size: 14px;
+    position: absolute;
+  }
+  
+  .example-option-img {
+    object-fit: cover;
+    vertical-align: middle;
+    margin-right: 8px;
+    height: 30px;
+    width: 30px;
+    border-radius: 90px;
+  }
+
+  .form-field-wrapper {
+    height: 30px;
+    width: 200px;
+  }
+  
+  .profile-button {
+    display: inline-block;
+    width: 200px;
+    border-radius: 4px;
+    text-transform: capitalize;
+  }

@@ -1,0 +1,64 @@
+<mat-card style="border-radius: 20px;">
+  <!--Header-->
+  <mat-card-header>
+    <mat-card-title>Welcome again!</mat-card-title>
+    <mat-card-subtitle>Sign-in to see what's up with your friends.</mat-card-subtitle>
+  </mat-card-header>
+
+  <!--Main content-->
+  <mat-card-content>
+    <form [formGroup]="loginFrom">
+      <mat-form-field appearance="outline" >
+        <mat-label>Username</mat-label>
+        <input
+        
+          matInput
+          placeholder="jankowalski33"
+          formControlName="userName"
+          required
+        />
+        <mat-error *ngIf="loginFrom.get('userName').invalid">
+          Username is required.
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field appearance="outline">
+        <mat-label>Password</mat-label>
+        <input
+          matInput
+          [type]="hide ? 'password' : 'text'"
+          formControlName="password"
+          required
+        />
+        <button
+          mat-icon-button
+          matSuffix
+          (click)="hide = !hide"
+          [attr.aria-label]="'Hide password'"
+          [attr.aria-pressed]="hide"
+        >
+          <mat-icon>{{ hide ? "visibility_off" : "visibility" }}</mat-icon>
+        </button>
+        <mat-error *ngIf="loginFrom.get('password').invalid">
+          Password required.
+        </mat-error>
+      </mat-form-field>
+      <button
+        class="wide-button"
+        mat-raised-button
+        [disabled]="loginFrom.invalid"
+        color="primary"
+        (click)="login()"
+      >
+        Sign in
+      </button>
+    </form>
+  </mat-card-content>
+
+  <!--Footer-->
+  <mat-card-footer>
+    <mat-card-subtitle
+      ><p class="regular-text">Don't have an account?</p>
+      <button mat-button class="link-button" color="primary" (click)="redirectToRegister()">Sign up</button>
+    </mat-card-subtitle>
+  </mat-card-footer>
+</mat-card>

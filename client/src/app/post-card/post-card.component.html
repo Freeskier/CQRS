@@ -1,0 +1,33 @@
+<mat-card>
+  <mat-card-header>
+    <img
+      (click)="navigateToProfile(photo.userId)"
+      mat-card-avatar
+      [src]="photo.userPhotoUrl"
+      style="background-size: cover; cursor: pointer"
+    />
+    <mat-card-title
+      style="cursor: pointer"
+      (click)="navigateToProfile(photo.userId)"
+      >{{ photo.userUserName }}</mat-card-title
+    >
+    <mat-card-subtitle>{{
+      photo.dateAdded | date: "mediumDate"
+    }}</mat-card-subtitle>
+  </mat-card-header>
+  <img mat-card-image src="{{ photo.url }}" alt="posted photo" />
+  <mat-card-content>
+    <p>
+      {{ photo.description }}
+    </p>
+    <button mat-icon-button aria-label="Example icon-button with menu icon" (click)="likePhoto()">
+      <mat-icon>favorite_outline</mat-icon>
+    </button>
+    <button mat-icon-button aria-label="Example icon-button with menu icon">
+      <mat-icon>messenger_outline</mat-icon>
+    </button>
+    <p class="reaction-p">Polubienia: {{this.likers.length}}</p>
+    <p class="reaction-p">Zobacz wszystkie komentarze: 420</p>
+    <p class="reaction-p"><strong>lazar_angelov: </strong>wow beautiful</p>
+  </mat-card-content>
+</mat-card>

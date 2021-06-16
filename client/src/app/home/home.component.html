@@ -1,0 +1,79 @@
+<mat-card>
+  <mat-card-header>
+    <img
+      mat-card-avatar
+      [src]="
+        loggedUser.mainPhotoUrl || '../../assets/temp-images/default_avatar.jpg'
+      "
+      style="margin-block: auto; background-size: cover"
+    />
+
+    <mat-form-field appearance="outline">
+      <mat-label>What's up, {{ loggedUser.userName }}?</mat-label>
+      <input
+        matInput
+        placeholder="What's up, {{ loggedUser.userName }}?"
+        [formControl]="postText"
+      />
+      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+      <mat-error *ngIf="postText.invalid">{{ getErrorMessage() }}</mat-error>
+    </mat-form-field>
+  </mat-card-header>
+  <mat-card-content>
+    <input
+      #imageInput
+      hidden="true"
+      type="file"
+      ng2FileSelect
+      [uploader]="uploader"
+      onclick="this.value=null"
+      (change)="imageInputChange($event)"
+      accept=".jpg, .png, .jpeg"
+    />
+    <button
+      *ngIf="!uploader.queue[0]"
+      mat-button
+      color="accent"
+      (click)="imageInput.click()"
+    >
+      <mat-icon color="primary">insert_photo</mat-icon>
+      Choose photo
+    </button>
+    <button
+      *ngIf="uploader.queue[0]"
+      mat-button
+      color="accent"
+      (click)="clearAll()"
+    >
+      <mat-icon color="primary">delete</mat-icon>
+      Remove
+    </button>
+    <img
+      class="image-preview"
+      *ngIf="uploader.queue[0]"
+      src="{{ imagePreview }}"
+    />
+  </mat-card-content>
+  <mat-progress-bar
+    *ngIf="isUploading"
+    role="progressbar"
+    mode="determinate"
+    value="{{ uploader.progress }}"
+  ></mat-progress-bar>
+  <mat-card-footer>
+    <button
+      *ngIf="uploader.queue.length == 1"
+      class="wide-button"
+      mat-raised-button
+      style="border-radius: 20px"
+      color="primary"
+      (click)="uploadFile()"
+    >
+      Upload
+    </button>
+  </mat-card-footer>
+</mat-card>
+
+<div *ngFor="let photo of photosOfFollowees">
+  <app-post-card [photo]=photo></app-post-card>
+</div>

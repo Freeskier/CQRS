@@ -1,0 +1,42 @@
+mat-card {
+
+    border-radius: 20px;
+    margin-top: 20px;
+    max-width: 500px;
+    min-width: 200px;
+    margin-inline: auto;
+}
+
+mat-form-field {
+    margin-top: 16px;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  mat-card-header {
+    padding-inline: 16px;
+  }
+
+  mat-icon {
+    margin-left: 0;
+    margin-right: 10px;
+  }
+  
+
+  .image-preview {
+    margin-top: 10px;
+    margin-inline: 0;
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  mat-card-footer {
+    padding-inline: 32px;
+    padding-bottom: 16px;
+  }
+
+  mat-progress-bar {
+    margin-bottom: 20px
+  }
+  
+  

@@ -1,0 +1,17 @@
+mat-card {
+    border-radius: 20px;
+  max-width: 500px;
+  min-width: 200px;
+  margin-inline: auto;
+  margin-top: 20px;
+}
+
+mat-card-header {
+  padding: 16px;
+}
+
+
+
+.reaction-p {
+    margin-top: 16px;
+}

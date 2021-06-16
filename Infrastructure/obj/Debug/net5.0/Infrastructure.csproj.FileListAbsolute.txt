@@ -1,0 +1,40 @@
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.dev.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Infrastructure/obj/Debug/net5.0/Infrastructure.genruntimeconfig.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache

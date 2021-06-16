@@ -1,0 +1,24 @@
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/bin/Debug/net5.0/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Domain/obj/Debug/net5.0/Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\bin\Debug\net5.0\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache

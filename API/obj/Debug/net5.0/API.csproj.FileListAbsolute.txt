@@ -1,0 +1,163 @@
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/appsettings.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/API.deps.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/API.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/ref/API.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/API.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Bogus.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Castle.Core.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/FluentValidation.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Humanizer.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/MediatR.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Models.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/bin/Debug/net5.0/Models.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.csprojAssemblyReference.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/ref/API.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\ref\API.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\appsettings.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.exe
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.deps.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\ref\API.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\API.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Bogus.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Castle.Core.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\FluentValidation.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Humanizer.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\MediatR.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Infrastructure.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Application.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\bin\Debug\net5.0\Infrastructure.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\Stripe.net.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs

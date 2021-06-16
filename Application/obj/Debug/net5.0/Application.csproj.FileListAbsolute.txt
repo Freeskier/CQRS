@@ -1,0 +1,36 @@
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Application.deps.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Application.runtimeconfig.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Application.runtimeconfig.dev.json
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Application.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Application.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Domain.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/bin/Debug/net5.0/Domain.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.pdb
+/Users/bartlomiejpierog/VS Code Projects/DumplingramWithMicroservices/Application/obj/Debug/net5.0/Application.genruntimeconfig.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Application.deps.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Application.runtimeconfig.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\ref\Application.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Application.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Domain.dll
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\bin\Debug\net5.0\Domain.pdb
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.genruntimeconfig.cache
+D:\Users\Bart\VS_Code_Projects\DumplingramV2\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
